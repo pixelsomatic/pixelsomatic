@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/krsnananda/static/css/main.6636e293.chunk.css",
+    "main.css": "/krsnananda/static/css/main.6c11c077.chunk.css",
     "main.js": "/krsnananda/static/js/main.32a4aedf.chunk.js",
     "main.js.map": "/krsnananda/static/js/main.32a4aedf.chunk.js.map",
     "runtime-main.js": "/krsnananda/static/js/runtime-main.ec9cd302.js",
@@ -8,9 +8,9 @@
     "static/js/2.f81ac884.chunk.js": "/krsnananda/static/js/2.f81ac884.chunk.js",
     "static/js/2.f81ac884.chunk.js.map": "/krsnananda/static/js/2.f81ac884.chunk.js.map",
     "index.html": "/krsnananda/index.html",
-    "precache-manifest.3da08de27dd8a6e3d91bff526e37a9ac.js": "/krsnananda/precache-manifest.3da08de27dd8a6e3d91bff526e37a9ac.js",
+    "precache-manifest.732e24632e41db94acbf39cec4571ce2.js": "/krsnananda/precache-manifest.732e24632e41db94acbf39cec4571ce2.js",
     "service-worker.js": "/krsnananda/service-worker.js",
-    "static/css/main.6636e293.chunk.css.map": "/krsnananda/static/css/main.6636e293.chunk.css.map",
+    "static/css/main.6c11c077.chunk.css.map": "/krsnananda/static/css/main.6c11c077.chunk.css.map",
     "static/js/2.f81ac884.chunk.js.LICENSE": "/krsnananda/static/js/2.f81ac884.chunk.js.LICENSE",
     "static/media/nerd-logo.png": "/krsnananda/static/media/nerd-logo.bff20d7a.png",
     "static/media/profile2.jpg": "/krsnananda/static/media/profile2.eb7c1f2b.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ec9cd302.js",
     "static/js/2.f81ac884.chunk.js",
-    "static/css/main.6636e293.chunk.css",
+    "static/css/main.6c11c077.chunk.css",
     "static/js/main.32a4aedf.chunk.js"
   ]
 }
