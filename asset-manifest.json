@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/krsnananda/static/css/main.6636e293.chunk.css",
+    "main.js": "/krsnananda/static/js/main.32a4aedf.chunk.js",
+    "main.js.map": "/krsnananda/static/js/main.32a4aedf.chunk.js.map",
+    "runtime-main.js": "/krsnananda/static/js/runtime-main.ec9cd302.js",
+    "runtime-main.js.map": "/krsnananda/static/js/runtime-main.ec9cd302.js.map",
+    "static/js/2.f81ac884.chunk.js": "/krsnananda/static/js/2.f81ac884.chunk.js",
+    "static/js/2.f81ac884.chunk.js.map": "/krsnananda/static/js/2.f81ac884.chunk.js.map",
+    "index.html": "/krsnananda/index.html",
+    "precache-manifest.3da08de27dd8a6e3d91bff526e37a9ac.js": "/krsnananda/precache-manifest.3da08de27dd8a6e3d91bff526e37a9ac.js",
+    "service-worker.js": "/krsnananda/service-worker.js",
+    "static/css/main.6636e293.chunk.css.map": "/krsnananda/static/css/main.6636e293.chunk.css.map",
+    "static/js/2.f81ac884.chunk.js.LICENSE": "/krsnananda/static/js/2.f81ac884.chunk.js.LICENSE",
+    "static/media/nerd-logo.png": "/krsnananda/static/media/nerd-logo.bff20d7a.png",
+    "static/media/profile2.jpg": "/krsnananda/static/media/profile2.eb7c1f2b.jpg",
+    "static/media/share-eat.jpg": "/krsnananda/static/media/share-eat.ecd22f6c.jpg",
+    "static/media/tic-tac-toe.jpg": "/krsnananda/static/media/tic-tac-toe.3dc2f5c6.jpg",
+    "static/media/wordpress.png": "/krsnananda/static/media/wordpress.d33cac84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9cd302.js",
+    "static/js/2.f81ac884.chunk.js",
+    "static/css/main.6636e293.chunk.css",
+    "static/js/main.32a4aedf.chunk.js"
+  ]
+}
