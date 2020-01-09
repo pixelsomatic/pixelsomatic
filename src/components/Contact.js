@@ -1,12 +1,12 @@
 import React from 'react';
 import Menu from '../components/menu/Menu';
 import './Contact.scss';
-import github from '../assets/github-brands.svg';
-import linkedin from '../assets/linkedin-in-brands.svg';
-import whatsapp from '../assets/whatsapp-brands.svg';
-import stack from '../assets/stack-overflow-brands.svg';
-import twitter from '../assets/twitter-brands.svg';
-import email from '../assets/envelope-solid.svg';
+import github from '../assets/github-brands.png';
+import linkedin from '../assets/linkedin-in-brands.png';
+import whatsapp from '../assets/whatsapp-brands.png';
+import stack from '../assets/stack-overflow-brands.png';
+import twitter from '../assets/twitter-brands.png';
+import email from '../assets/envelope-solid.png';
 
 export default class Contact extends React.Component {
     render(){
