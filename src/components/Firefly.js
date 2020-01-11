@@ -7,21 +7,21 @@ export default class Firefly extends React.Component{
        
         return(
             <div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
-                <div class="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
+                <div className="firefly"></div>
             </div>
         )
     }

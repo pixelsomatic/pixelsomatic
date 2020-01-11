@@ -12,10 +12,10 @@ export default function App() {
         <header>
           <Menu/>
         </header>
-        <body>
+        <div>
           <Home />
           <Firefly />
-        </body>
+        </div>
       </div>
   );
 }
