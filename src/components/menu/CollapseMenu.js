@@ -19,10 +19,10 @@ const CollapseMenu = (props) => {
         <nav>
             <ul class="menu">
                 <li><a href="/" onClick={props.handleNavbar}><Link to="/">Home</Link></a></li>
-                <li><Link to="/about" onClick={props.handleNavbar}>About</Link></li>
-                <li><Link to="/skills" onClick={props.handleNavbar}>Skills</Link></li>
-                <li><Link to="/projects" onClick={props.handleNavbar}>Projects</Link></li>
-                <li><Link to="/contact" onClick={props.handleNavbar}>Contact</Link></li>
+                <li><a href="/" onClick={props.handleNavbar}>About</a></li>
+                <li><a href="/" onClick={props.handleNavbar}>Skills</a></li>
+                <li><a href="/" onClick={props.handleNavbar}>Projects</a></li>
+                <li><a href="/" onClick={props.handleNavbar}>Contact</a></li>
             </ul>
         </nav>
         </NavLinks>
