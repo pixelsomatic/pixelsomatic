@@ -28,6 +28,9 @@ html {
   margin: 0 auto;
   height: 100vh;
   list-style: none;
+  @media (max-width: 768px) {
+    display: none;
+  }
 }
 
 .menu li {

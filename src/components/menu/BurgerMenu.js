@@ -17,16 +17,17 @@ export default Burgermenu;
 
 const Wrapper = styled.div`
   position: relative;
-  padding-top: .7rem;
+  padding-top: .3rem;
   cursor: pointer;
   display: block;
+  right: 5rem;
   & span {
     background: #868797;
     display: block;
     position: relative;
-    width: 3.5rem;
+    width: 3rem;
     height: .4rem;
-    margin-bottom: .7rem;
+    margin-bottom: .3rem;
     transition: all ease-in-out 0.2s;
   }
   .open span:nth-child(2) {

@@ -89,6 +89,12 @@ body {
     transform: translate(-50%);
 }
 
+@media screen and (max-width:468px){
+    .wrapper{
+        top: 55%!important;
+    }
+}
+
 p {
     font-family: font(family);
     font-size: 14px;

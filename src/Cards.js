@@ -4,14 +4,24 @@ import shareEat from './images/share-eat.jpg';
 import nerdLogo from './images/nerd-logo.png';
 import ticTac from './images/tic-tac-toe.jpg';
 import wordpress from './images/wordpress.png';
-import Menu from './components/menu/Menu';
+import Menu from './components/menu/Navbar';
 
 export default class Cards extends React.Component {
+    state = {
+        navbarOpen: false
+      }
+    
+      handleNavbar = () => {
+        this.setState({ navbarOpen: !this.state.navbarOpen });
+      }
 
     render() {
         return(
             <div className="cards-wrapper">
-            <Menu />    
+            <Menu 
+            navbarState={this.state.navbarOpen} 
+            handleNavbar={this.handleNavbar}
+            />    
             <h1 id="#projects">Projects</h1>
             <div className="cols">
                       <div className="col" ontouchstart="this.classList.toggle('hover');">

@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../components/menu/Menu';
+import Menu from '../components/menu/Navbar';
 import './Skills.scss';
 import react from '../assets/icons8-react-100.png';
 import javascript from '../assets/icons8-javascript-100.png';
@@ -13,10 +13,21 @@ import npm from '../assets/icons8-npm-100.png';
 import git from '../assets/icons8-git-100.png';
 import terminal from '../assets/icons8-terminal-100.png';
 export default class Skills extends React.Component {
+    state = {
+        navbarOpen: false
+      }
+    
+      handleNavbar = () => {
+        this.setState({ navbarOpen: !this.state.navbarOpen });
+      }
+
     render(){
         return(
             <div>
-                <Menu />
+                <Menu 
+                navbarState={this.state.navbarOpen} 
+                handleNavbar={this.handleNavbar}
+                />
                 
                 <div class="flex-center-label">
                     <label className="react">React</label>

@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../components/menu/Menu';
+import Menu from '../components/menu/Navbar';
 import './Contact.scss';
 import github from '../assets/github-brands.png';
 import linkedin from '../assets/linkedin-in-brands.png';
@@ -9,10 +9,20 @@ import twitter from '../assets/twitter-brands.png';
 import email from '../assets/envelope-solid.png';
 
 export default class Contact extends React.Component {
+    state = {
+        navbarOpen: false
+      }
+    
+      handleNavbar = () => {
+        this.setState({ navbarOpen: !this.state.navbarOpen });
+      }
     render(){
         return(
         <div>   
-            <Menu />
+            <Menu 
+                 navbarState={this.state.navbarOpen} 
+                 handleNavbar={this.handleNavbar}
+            />
             <div class="flex-center-icons">
             <div>
                 <a href="https://github.com/Krsnananda" target="_blank" rel="noopener noreferrer">

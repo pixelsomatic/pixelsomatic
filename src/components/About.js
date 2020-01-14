@@ -1,13 +1,23 @@
 import React from 'react';
-import Menu from '../components/menu/Menu';
+import Menu from '../components/menu/Navbar';
 import profile from '../images/profile2.jpg';
 import './About.scss';
 
 export default class About extends React.Component {
+    state = {
+        navbarOpen: false
+      }
+    
+      handleNavbar = () => {
+        this.setState({ navbarOpen: !this.state.navbarOpen });
+      }
     render() {
         return(
             <div>
-                <Menu />
+                <Menu 
+                navbarState={this.state.navbarOpen} 
+                handleNavbar={this.handleNavbar}
+                />
                 <div className="flex">
                     <div id="about">
                         About me
