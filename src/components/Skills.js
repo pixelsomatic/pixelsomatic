@@ -28,7 +28,6 @@ export default class Skills extends React.Component {
                 navbarState={this.state.navbarOpen} 
                 handleNavbar={this.handleNavbar}
                 />
-                
                 <div class="flex-center-label">
                     <label className="react">React</label>
                     <label className="js">Javascript</label>

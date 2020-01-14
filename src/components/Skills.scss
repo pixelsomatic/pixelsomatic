@@ -16,6 +16,19 @@
     align-items: center;
   }
 
+  @media screen and (max-width:468px){
+    .flex-center {
+      display:block;
+      margin-top: 9rem;
+    }
+  }
+ 
+  @media screen and (max-width:468px){
+    .flex-center-label label {
+      display:none;
+    }
+  }
+
   .skills-icon {
     padding: 7px;
     &:hover  {

@@ -55,11 +55,12 @@ const NavBar = styled(animated.nav)`
   width: 100%;
   top: 0rem;
   left: 0;
-  margin-left: 5rem;
+  margin-left: 17rem;
   z-index: 1;
   font-size: 1.4rem;
   @media (max-width: 768px) {
     top: 0;
+    margin-left: 5rem;
   }
 `;
 
@@ -70,7 +71,6 @@ const FlexContainer = styled.div`
   padding: 0 2rem;;
   justify-content: space-between;
   height: 5rem;
-  margin-top: 2rem;
   & p {
     font-family: 'Open Sans';
     font-size: 20px;
