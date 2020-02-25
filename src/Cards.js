@@ -8,13 +8,28 @@ import blog from './images/2632475.jpg';
 import Menu from './components/menu/Navbar';
 
 export default class Cards extends React.Component {
-    state = {
-        navbarOpen: false
+    constructor(props) {
+        super(props);
+        this.state = {
+            navbarOpen: false,
+        }
+        this.handleScroll = this.handleScroll.bind(this);
+    }
+    
+    componentDidMount() {
+        window.addEventListener('scroll', this.handleScroll);
+        document.getElementsByTagName('html')[0].addEventListener('scroll', this.handleScroll);
       }
     
-      handleNavbar = () => {
-        this.setState({ navbarOpen: !this.state.navbarOpen });
-      }
+    handleScroll = () => {
+        this.setState({ top: 100 }, function() {
+            console.log(this.state.top);
+          });
+    }
+
+    handleNavbar = () => {
+    this.setState({ navbarOpen: !this.state.navbarOpen });
+    }
 
     render() {
         return(
@@ -24,7 +39,7 @@ export default class Cards extends React.Component {
             handleNavbar={this.handleNavbar}
             />    
             <h1 id="#projects">Projects</h1>
-            <div className="cols">
+            <div className="cols"  onScroll={this.handleScroll}>
                 <div className="col" ontouchstart="this.classList.toggle('hover');">
                     <div className="container">
                         <div className="front">

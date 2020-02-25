@@ -18,7 +18,7 @@ export default class Home extends React.Component {
                     <span className="letter">d</span>
                     <span className="letter">a</span>
             </div>
-            <p>Front-end Developer</p>
+            <p>Full-Stack Developer</p>
         </div>
         )
     }
