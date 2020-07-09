@@ -6,4 +6,4 @@ Series 🎥\
 Music 🎧\
 Coffee ☕️\
 Japan 🍣🏯🏮\
-Collaborator at @webmasters_devs 📚\
+Collaborator at @webmasters_devs 📚
