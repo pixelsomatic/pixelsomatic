@@ -6,7 +6,7 @@
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * Currently working as full-stack Web Developer
-* Learning Ruby and Rails
+* Learning Ruby on Rails
 
 <br>
 
