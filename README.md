@@ -3,10 +3,12 @@
 ## About me 
 
 * Software Craftsman 📜 <img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/bighead.svg" align="right" width="400">
+* Rubyist
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * Currently working as full-stack Web Developer
-* Learning Ruby on Rails
+* [RubyConf Brazil 2020](https://online.rubyconf.com.br) co-organizer
+* [Webmasters](https://twitter.com/webmasters_devs) community moderator
 
 <br>
 
@@ -43,6 +45,6 @@
 
 <br>
 
-## It's all folks! I guess..
+## It's all folks! I guess..?
 
 <img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/silicon.gif"> 
