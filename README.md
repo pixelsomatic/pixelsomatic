@@ -47,4 +47,10 @@
 
 ## It's all folks! I guess..?
 
-<img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/silicon.gif"> 
+<img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/silicon.gif">
+
+### Do you like what I do and want to support me? 
+
+Now you can buy me a cup of coffee :)
+
+<a href="https://www.buymeacoffee.com/krsnananda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200" align="center!important" ></a>
