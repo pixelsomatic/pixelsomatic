@@ -26,7 +26,6 @@
 ## Languages and Tools
 
 - 💻 &nbsp;
-  
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=8a0101)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php)
