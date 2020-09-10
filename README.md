@@ -7,7 +7,7 @@
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * Currently working as full-stack Web Developer
-* [RubyConf Brazil 2020](https://online.rubyconf.com.br) co-organizer
+* [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
 * [Webmasters](https://twitter.com/webmasters_devs) community moderator
 
 <br>
