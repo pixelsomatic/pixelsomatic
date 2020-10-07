@@ -26,9 +26,10 @@
 ## Languages and Tools
 
 - 💻 &nbsp;
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=plastic&logo=ruby&logoColor=8a0101)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php)
+  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=plastic&logo=symfony)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
