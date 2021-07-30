@@ -3,12 +3,11 @@
 ## About me 
 
 * Software Craftsman 📜 <img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/bighead.svg" align="right" width="400">
-* Back-end Developer
+* Back-end/Mobile Developer
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * Currently working as full-stack Web Developer
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
-* [Webmasters](https://twitter.com/webmasters_devs) community moderator
 
 <br>
 
