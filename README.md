@@ -3,10 +3,10 @@
 ## About me 
 
 * Software Craftsman 📜 <img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/bighead.svg" align="right" width="400">
-* Back-end/Mobile Developer
+* Front-end/Mobile Developer
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
-* Currently working as full-stack Web Developer
+* Currently working as Full-stack Web Developer
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
 
 <br>
@@ -25,14 +25,13 @@
 ## Languages and Tools
 
 - 💻 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=plastic&logo=php)
-  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=plastic&logo=symfony)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=plastic&logo=laravel)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![ReactNative](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -47,7 +46,7 @@
 <p align="center">
  <a href="https://github.com/Krsnananda">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krsnananda&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krsnananda&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krsnananda&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
  </a>
 </p>
 <br>
