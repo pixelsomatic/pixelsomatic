@@ -49,6 +49,9 @@
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krsnananda&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
  </a>
 </p>
+<p align="center">
+<img src="https://wakatime.com/share/@Krsnananda/6b38b104-a9dd-43fb-bfa5-069bbbe26402.png" width="600" />
+</p>  
 <br>
 
 ## You can reach me out
