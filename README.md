@@ -1,8 +1,10 @@
 # Hi there! Welcome to my profile :v:                               
 
+<img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/mario.2484c967.gif">
+
 ## About me 
 
-* Software Craftsman 📜 <img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/bighead.svg" align="right" width="400">
+* Software Craftsman 📜
 * Front-end/Mobile Developer
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
@@ -66,12 +68,6 @@
 
 
 <br>
-
-## It's all folks.. I guess?
-
-<p align="center">
-<img src="https://github.com/Krsnananda/Krsnananda/raw/master/public/assets/silicon.gif">
-</p>
 
 ### Do you like what I do and want to support me? 
 <br>
