@@ -8,6 +8,7 @@
 * Wanderlust is my favorite word (yes, I have one!)
 * Currently working as Full-stack Web Developer
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
+* [Cidade Histórica](https://projetocidadehistorica.com.br/) collaborator
 
 <br>
 
@@ -30,7 +31,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=563D7C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
