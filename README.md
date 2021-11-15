@@ -30,7 +30,7 @@
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![ReactNative](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
+  ![Redux](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=563D7C)
