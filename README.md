@@ -5,10 +5,9 @@
 ## About me 
 
 * Software Craftsman 📜
-* Front-end/Mobile Developer
+* Front-End/Mobile Engineer
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
-* Currently working as Full-stack Web Developer
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
 * [Cidade Histórica](https://projetocidadehistorica.com.br/) collaborator
 
