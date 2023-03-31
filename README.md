@@ -47,9 +47,9 @@
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=plastic&logo=vim&logoColor=00cf48)
 
 <p align="center">
- <a href="https://github.com/Krsnananda">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krsnananda&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krsnananda&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
+ <a href="https://github.com/pixelsomatic">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pixelsomatic&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pixelsomatic&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
  </a>
 </p>
 <p align="center">
@@ -59,7 +59,7 @@
 
 ## You can reach me out
 
- [![twitter](https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter)](https://twitter.com/thekrsnananda)&nbsp;&nbsp;
+ [![twitter](https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter)](https://twitter.com/pixelsomatic)&nbsp;&nbsp;
  [![dev](https://img.shields.io/badge/-DEV-333333?style=for-the-badge&logo=dev.to&logoColor=000000)](https://dev.to/krsnananda)&nbsp;&nbsp;
  [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-333333?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11869599/krsnananda?tab=profile)&nbsp;&nbsp;
  [![linkedin](https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krsnananda-nunes/)&nbsp;&nbsp;
