@@ -60,10 +60,10 @@
 
  [![twitter](https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter)](https://twitter.com/pixelsomatic)&nbsp;&nbsp;
  [![dev](https://img.shields.io/badge/-DEV-333333?style=for-the-badge&logo=dev.to&logoColor=000000)](https://dev.to/krsnananda)&nbsp;&nbsp;
- [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-333333?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/11869599/krsnananda?tab=profile)&nbsp;&nbsp;
+ [![stackoverflow](https://img.shields.io/badge/-Stackoverflow-333333?style=for-the-badge&logo=stackoverflow)]([https://stackoverflow.com/users/11869599/krsnananda?tab=profile](https://stackoverflow.com/users/17195431/krsnananda))&nbsp;&nbsp;
  [![linkedin](https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krsnananda-nunes/)&nbsp;&nbsp;
  [![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail)](mailto:krsnananda@outlook.com?subject=[GitHub]%20Profile%20Contact)&nbsp;&nbsp;
- [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/Krsnananda)
+ [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)](https://t.me/pixelsomatic)
 
 
 <br>
