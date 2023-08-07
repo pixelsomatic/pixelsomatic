@@ -5,7 +5,7 @@
 ## About me 
 
 * Software Craftsman 📜
-* Front-End/Mobile Engineer
+* SWE
 * Brazilian developer with a indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
