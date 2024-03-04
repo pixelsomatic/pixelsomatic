@@ -5,8 +5,8 @@
 ## About me 
 
 * Software Craftsman 📜
-* SWE
-* Brazilian developer with a indian name (long history, dude..)
+* Senior Mobile Engineer with over 5 years of experience
+* Brazilian developer with an Indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
 * [Cidade Histórica](https://projetocidadehistorica.com.br/) collaborator
