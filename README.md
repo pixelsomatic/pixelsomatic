@@ -26,34 +26,17 @@
 
 ## Languages and Tools
 
-- 💻 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![ReactNative](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)
-  ![Redux](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=plastic&logo=javascript)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=563D7C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=plastic&logo=vim&logoColor=00cf48)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pixelsomatic&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pixelsomatic&theme=tokyonight) |
+|--------------------------------------------------------------|--------------------------------------------------------------|
+
 
 <p align="center">
- <a href="https://github.com/pixelsomatic">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pixelsomatic&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pixelsomatic&theme=radical&hide=PHP&show_icons=true&include_all_commits=true&count_private=true">
- </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,swift,py,kotlin,html,css,styledcomponents,materialui,react,nestjs,nodejs,graphql,mongodb,mysql,postgres,apple,linux,vscode,vim,androidstudio,bitbucket,gitlab,github,git,gradle,jest,postman,redux,sentry,docker,gcp&perline=16" />
+  </a>
 </p>
-<p align="center">
-<img src="https://wakatime.com/share/@Krsnananda/6b38b104-a9dd-43fb-bfa5-069bbbe26402.png" width="600" />
-</p>  
+
 <br>
 
 ## You can reach me out
