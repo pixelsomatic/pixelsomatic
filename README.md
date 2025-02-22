@@ -5,7 +5,7 @@
 ## About me 
 
 * Software Craftsman 📜
-* Senior Mobile Engineer with over 5 years of experience
+* Senior Mobile Engineer with 6 years of experience
 * Brazilian guy with an Indian name (long history, dude..)
 * Wanderlust is my favorite word (yes, I have one!)
 * [@pythonbotbr](https://twitter.com/PythonbotBr?s=20) creator
